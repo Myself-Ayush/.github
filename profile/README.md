@@ -1,9 +1,6 @@
 ### All Organisation
- Myself Ayush = https://github.com/myself-ayush     - https://myselfayush.com   - hi@myselfayush.com </br>
-
  Spark The Future = https://github.com/sparkthefuture    - https://sparkthefuture.in - sparkthefuture.in@gmail.com </br>
 
- Tech Revolution Hub = https://github.com/techrevolutionhub </br>
 
 ### Main Project
 
