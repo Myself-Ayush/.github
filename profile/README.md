@@ -1,27 +1,3 @@
-### All Organisation
- Spark The Future = https://github.com/sparkthefuture    - https://sparkthefuture.in - sparkthefuture.in@gmail.com </br>
+#visit - https://MyselfAyush.com  - Dev@myselfayush.com </br>
 
-
-### Main Project
-
-Project 1 - https://myselfayush.com </br>
-
-Project 2 - https://blog.myselfayush.com = My Thoughts </br>
-
-Project 2 - https://sparkthefuture.in </br>
-
-Project 3 - https://bits.sparkthefuture.in </br>
-
-Project 4 - https://journal.sparkthefuture.in    = journal entry </br>
-
-### Team Project
-
-project 1 - 
-
-### Experimental Projects
-
-Project 1 - https://mythoughts-c4e7b.web.app/  = My Thoughts </br>
-
-### Friends Projects
-
-Project 1 - https://tourism-analytics-project.web.app/
+#main - https://github.com/myself-ayush
